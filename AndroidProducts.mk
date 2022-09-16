@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_xmsirius.mk
+    $(LOCAL_DIR)/lmodroid_xmsirius.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_xmsirius-user \
-    lineage_xmsirius-userdebug \
-    lineage_xmsirius-eng
+    lmodroid_xmsirius-user \
+    lmodroid_xmsirius-userdebug \
+    lmodroid_xmsirius-eng
